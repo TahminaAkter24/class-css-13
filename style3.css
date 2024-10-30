@@ -1,0 +1,11 @@
+H1{
+    background-color: red;
+    color:azure;
+    display: inline-block;
+}
+span{
+    color: aqua;
+}
+a{
+    text-decoration: none;
+}
